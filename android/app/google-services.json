@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607987904089",
+    "project_id": "fcm-push-e349c",
+    "storage_bucket": "fcm-push-e349c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607987904089:android:cbce9df4beb205e8bd4b48",
+        "android_client_info": {
+          "package_name": "com.example.fcm_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-C6ZAukDtHE_EcLbX05fS9OMnFwIejZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
